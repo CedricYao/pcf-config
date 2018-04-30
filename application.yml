@@ -6,3 +6,4 @@ Logging:
   Console:
     LogLevel: 
       Default: Information
+    
